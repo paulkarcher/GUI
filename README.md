@@ -1,6 +1,6 @@
 GUI
 ===
 
-Code for GUI
+Everything is inside the gh-pages branch.
 
-This page was created for [assignment 4](https://github.com/paulkarcher/GUI)
+
